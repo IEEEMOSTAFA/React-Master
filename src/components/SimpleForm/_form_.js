@@ -6,4 +6,5 @@
 // 2. controlled element:  Use individual field state for each input field
 // 3.controlled element: one object holding all the input fields value
 
-// 4. uncontrolled element: 
+// 4. uncontrolled element: useRef to create a reference to the element and a access value by using like: nameRef.current.value
+// 

@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const SimpleForm = () => {
 
@@ -21,7 +21,7 @@ const SimpleForm = () => {
                   <br />
                   <input type='email' name='email'></input>
                   <br />
-                  <input type='text' name='phone'></input>
+                  <input type='password' name='password'></input>
                   <br />
                   <button type='submit' value="Submit">Submit</button>
 
