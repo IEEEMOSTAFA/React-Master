@@ -7,4 +7,5 @@
 // 3.controlled element: one object holding all the input fields value
 
 // 4. uncontrolled element: useRef to create a reference to the element and a access value by using like: nameRef.current.value
-// 
+// 5.Use hook to handle states and submit and error.Example: react hook form
+// 6.Reusable component: 
